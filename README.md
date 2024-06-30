@@ -30,7 +30,7 @@
 [![Professional Cloud Database Engineer Certification](https://images.credly.com/size/110x110/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png)](https://www.credly.com/badges/20823a4c-166e-4600-8fd8-ffe86e509c9e/public_url)
 [![Professional Data Engineer](https://images.credly.com/size/110x110/images/d7d0d0f5-ea0b-4b3f-a76f-93934726573d/image.png)](https://www.credly.com/badges/84aa54ff-f020-43ad-98b0-f4992a0c2666/public_url)
 [![Professional Machine Learning Engineer Certification](https://images.credly.com/size/110x110/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png)](https://www.credly.com/badges/1071b911-8ca5-48d4-a409-2358e07cdc1a/public_url)
-[![Professional Cloud Network Engineer](https://images.credly.com/size/110x110/images/fd53cb0e-6622-4a14-a7d0-5793c8703a4c/image.png)](https://www.credly.com/badges/db733a77-5e55-4a8b-a86d-8fabe55a7171/public_url)
+[![Professional Cloud Network Engineer](https://images.credly.com/size/110x110/images/08a802bf-f2fa-44fb-8110-92acf6195738/image.png)](https://www.credly.com/badges/db733a77-5e55-4a8b-a86d-8fabe55a7171/public_url)
 [![Professional Google Workspace Administrator Certification](https://images.credly.com/size/110x110/images/8848cf4b-31e8-4bf8-b76f-f831f4db433b/image.png)](https://www.credly.com/badges/398c7c71-6e66-466a-8f76-13e071153aab/public_url)
 
 <!--
